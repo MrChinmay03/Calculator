@@ -1,2 +1,2 @@
 # Calculator
-https://idyllic-starship-88a5b3.netlify.app/#/
+https://elaborate-starburst-426a95.netlify.app/
