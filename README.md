@@ -1,2 +1,2 @@
 # Calculator
-https://elaborate-starburst-426a95.netlify.app/
+hhttps://grand-buttercream-9f214e.netlify.app/#/
