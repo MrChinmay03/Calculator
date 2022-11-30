@@ -1,2 +1,2 @@
 # Calculator
-https://github.com/MrChinmay03/Calculator/upload
+https://chinmay1.netlify.app/
