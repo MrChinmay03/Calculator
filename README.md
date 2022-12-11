@@ -1,2 +1,2 @@
 # Calculator
-https://chinmay1.netlify.app/
+https://calculatorbychinmay.netlify.app/
